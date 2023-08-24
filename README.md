@@ -1,7 +1,7 @@
 <h1 left="center">Hi there, I'm Dima </a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">Data science student</h3>
 
-🌱 I’m currently python, sql, statistics, machine learning<br>
+🌱 I’m currently learning python, sql, statistics, ml<br>
 
 📫 How to reach me mayorkind@gmail.com<br>
 
