@@ -3,5 +3,7 @@
 <h3 align="center">Data science student</h3>
 
 🌱 I’m currently python, sql<br>
+
 📫 How to reach me mayorkind@gmail.com<br>
+
 🌍 I speak Russian (native), English (B2)<br>
