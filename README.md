@@ -1,7 +1,7 @@
 <h1 align="left"> Hi there, I'm Dima <a href="https://github.com/Dimayo"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></a></h1>
 <h3 align="left">Data analyst</h3>
 
-🌱 I’m currently learning hadoop, ml<br>
+🌱 I’m currently learning hadoop, docker<br>
 
 📫 How to reach me mayorkind@gmail.com<br>
 
