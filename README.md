@@ -1,11 +1,11 @@
 <h1 align="left"> Hi there, I'm Dima <a href="https://github.com/Dimayo"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></a></h1>
-<h3 align="left">Data science student</h3>
+<h3 align="left">Data analyst</h3>
 
-🌱 I’m currently learning python, sql, statistics, ml<br>
+🌱 I’m currently learning hadoop, ml<br>
 
 📫 How to reach me mayorkind@gmail.com<br>
 
-🌍 I speak Russian (native), English (B1)<br><br>
+🌍 I speak Russian (native), English (B2)<br><br>
 
 **My tools:**<br>
 
