@@ -4,7 +4,7 @@
 
 📫 You can reach me by email mayorkind@gmail.com<br>
 
-🌍 I speak Russian (native), English (B1)<br><br>
+🌍 I speak Russian (native), English (B1)<br>
 
 **My tools:**<br>
 
