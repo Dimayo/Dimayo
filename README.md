@@ -1,5 +1,4 @@
-<h1 align="left"> Hi there, I'm Dima <a href="https://github.com/Dimayo"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></a></h1>
-<h3 align="left">Data analyst</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=00F737&multiline=true&repeat=false&width=435&lines=Hi+there%2C+I'm+Dima;Data+analyst" alt="Typing SVG" /></a>
 
 🌱 I’m currently learning hadoop, docker<br>
 
