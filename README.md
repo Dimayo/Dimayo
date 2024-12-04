@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=00EA34&multiline=true&repeat=false&width=435&lines=Hi+there%2C+I'm+Dima;Data+analyst" alt="Typing SVG" /></a>
 
-🌱 I’m currently learning hadoop, docker<br>
+🌱 I'm currently studying big data tools<br>
 
-📫 How to reach me mayorkind@gmail.com<br>
+📫 You can reach me by email mayorkind@gmail.com<br>
 
 🌍 I speak Russian (native), English (B1)<br><br>
 
