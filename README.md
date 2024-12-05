@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3500&pause=800&color=00D300&multiline=true&repeat=false&width=435&lines=Hi+there+I'm+Dima;Data+analyst" alt="Typing SVG" /></a>
 
-🌱 I'm currently studying big data tools<br>
+🌱 I'm currently learning big data tools<br>
 
 📫 You can reach me by email mayorkind@gmail.com<br>
 
