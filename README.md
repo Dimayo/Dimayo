@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=21C305&width=435&lines=Hi+there+I'm+Dima;Data+analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=1EC501&multiline=true&repeat=false&width=435&lines=Hi+there+I'm+Dima;Data+analyst" alt="Typing SVG" /></a>
 
 🌱 I'm currently studying big data tools<br>
 
