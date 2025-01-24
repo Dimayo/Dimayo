@@ -16,13 +16,13 @@
 ## ⚡ Технологии
 Я работаю с различными инструментами и технологиями, включая:
 
-Программирование и анализ данных: `python` `pandas` `matplotlib` `scipy` `seaborn` `numpy` `sklearn`
+Программирование и анализ данных: `Python` 🐍 `Pandas` 🐼 `Matplotlib` 📊 `Scipy` 🛠️ `Seaborn` 🌈 `Numpy` 🔢 `Sklearn` 🏃‍♂️
 
-Базы данных: `mysql` `postgresql` `clickhouse`
+Базы данных: `MySQL` 🐬 `PostgreSQL` 🐘 `ClickHouse` 🏠
 
-Инструменты для работы с большими данными: `hadoop` `airflow`
+Инструменты для работы с большими данными: `Hadoop` 🗄️ `Airflow` ✈️
 
-Визуализация и бизнес-аналитика: `power bi` `datalens`
+Визуализация и бизнес-аналитика: `Power BI` 📈 `DataLens` 🔍
 
 ## 🎯 Мои цели
 - Углубить свои знания в области больших данных и машинного обучения
