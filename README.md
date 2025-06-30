@@ -7,7 +7,7 @@
 
 ## ⚡ Технологии и инструменты
 
-`Python` `Pandas` `NumPy` `Scikit-Learn` `Statsmodels`  
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Statsmodels` 
 `Matplotlib` `Seaborn` `PostgreSQL` `Docker` 
 `Airflow` `Power BI` `DataLens`
 
