@@ -9,7 +9,6 @@
   
 ## 📚 Обучение:
 - Регулярно прохожу курсы на [Stepik](https://stepik.org/users/650976827/profile).
-- Решаю задачи по python, sql, pandas на [LeetCode](https://leetcode.com/u/dimayo/).
 - Прохожу курс [«Профессия Machine Learning Engineer»](https://skillbox.ru/course/profession-machine-learning/) в Skillbox.
 - В 2024 году успешно завершил курс [«Профессия Data-аналитик»](https://skillbox.ru/course/profession-data-analyst/).
 
