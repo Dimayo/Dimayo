@@ -3,14 +3,12 @@
 **Data-аналитик**  
 Увлечён визуализацией данных, статистикой и построением моделей машинного обучения.  
 
----
 
 ## 🛠 Технологии и инструменты
 
 Python · Pandas · NumPy · Scikit-Learn · Statsmodels · Matplotlib · Seaborn ·  
 SQL (PostgreSQL, ClickHouse) · Airflow · Power BI · DataLens  
 
----
 
 ## 📫 Контакты
 
