@@ -12,10 +12,3 @@
 `Airflow` `Power BI` `DataLens`
 
 
-
-## 📫 Контакты
-
-- Email: [mayorkind@gmail.com](mailto:mayorkind@gmail.com)  
-- Telegram: [@mayorkind](https://t.me/mayorkind)  
-
-
