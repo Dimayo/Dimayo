@@ -3,7 +3,6 @@
 **Data Analyst (BI / Product Analytics)**  
 Занимаюсь аналитикой данных, построением витрин и автоматизацией ETL, делаю BI-дашборды и продуктовые исследования.
 
----
 
 ## 📌 Проекты
 
@@ -15,7 +14,6 @@
 
 👉 Все проекты: https://github.com/Dimayo/data_analyst_portfolio
 
----
 
 ## ⚡ Технологии и инструменты
 
@@ -36,12 +34,11 @@
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-1f1f1f?style=flat&logo=powerbi&logoColor=white)
 ![DataLens](https://img.shields.io/badge/Yandex%20DataLens-1f1f1f?style=flat)
 
-### ⚙️ Инфра / Инструменты разработки
+### ⚙️ Инфраструктура / Инструменты разработки
 ![Docker](https://img.shields.io/badge/Docker-1f1f1f?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1f1f1f?style=flat&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1f1f1f?style=flat&logo=git&logoColor=white)
 
----
 
 ## 💼 Чем могу быть полезен
 - **DWH / витрины:** PostgreSQL, SQL — подготовка витрин под аналитику и отчётность  
