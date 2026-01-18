@@ -5,6 +5,8 @@
 
 Строю витрины и автоматизирую загрузки данных (SQL, PostgreSQL, Airflow), собираю данные из разных источников (в т.ч. API).  
 
+Разрабатываю API-микросервисы для задач данных и ML (интеграции, выдача фич/скоринг, сервисы для аналитики).  
+
 Делаю отчёты и дашборды в Power BI и Yandex DataLens.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mayorkind)
