@@ -43,7 +43,7 @@
 
 ### BI / Визуализация
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-FFCC00?style=flat)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-E43921?style=flat&logo=apacheairflow&logoColor=white)
 
 ### Инфраструктура / Инструменты разработки
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
