@@ -17,11 +17,6 @@
 ### [A/B-тест + кластеризация](https://github.com/Dimayo/data_analyst_portfolio/tree/main/sporting_store)
 - A/B-тест, сегментация пользователей, рекомендации по росту ключевых метрик  
 - **Стек:** `Python` `Pandas` `SciPy` `Sklearn` `Seaborn` `SQLAlchemy`
-<details>
-  <summary>Полный стек</summary>
-
-  `NumPy` `Matplotlib` `KModes`
-</details>
 
 ### [LTV / когорты / ROI](https://github.com/Dimayo/data_analyst_portfoliofoloio/tree/main/fintech_ltv)
 - Когортный анализ, оценка LTV/ROI по источникам, поиск наиболее прибыльных сегментов  
