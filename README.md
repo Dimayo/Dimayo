@@ -16,15 +16,20 @@
 
 ### [A/B-тест + кластеризация](https://github.com/Dimayo/data_analyst_portfolio/tree/main/sporting_store)
 - A/B-тест, сегментация пользователей, рекомендации по росту ключевых метрик  
-- **Стек:** `Python` `Pandas` `NumPy` `SciPy` `Seaborn` `Matplotlib` `Scikit-Learn` `KModes` `SQLAlchemy`
+- **Стек:** `Python` `Pandas` `SciPy` `Sklearn` `Seaborn` `SQLAlchemy`
+<details>
+  <summary>Полный стек</summary>
 
-### [LTV / когорты / ROI](https://github.com/Dimayo/data_analyst_portfolio/tree/main/fintech_ltv)
+  `NumPy` `Matplotlib` `KModes`
+</details>
+
+### [LTV / когорты / ROI](https://github.com/Dimayo/data_analyst_portfoliofoloio/tree/main/fintech_ltv)
 - Когортный анализ, оценка LTV/ROI по источникам, поиск наиболее прибыльных сегментов  
-- **Стек:** `Python` `Pandas` `NumPy` `Seaborn` `Matplotlib` `PyJanitor`
+- **Стек:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Janitor`
 
 ### [Гипотезы по конверсии](https://github.com/Dimayo/data_analyst_portfolio/tree/main/car_subscription)
 - Проверка гипотез по конверсии разных источников/устройств, интерпретация результатов  
-- **Стек:** `Python` `Pandas` `SciPy` `Seaborn` `Statsmodels`
+- **Стек:** `Python` `Pandas` `SciPy` `Statsmodels` `Seaborn`
 
 
 ## ⚡ Технологии и инструменты
