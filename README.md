@@ -2,13 +2,10 @@
 
 <br>
 
-#### Работаю с продуктовой и BI-аналитикой: провожу исследования, считаю метрики и проверяю гипотезы (A/B-тесты, когорты, LTV/ROI).
-#### Строю витрины и автоматизирую загрузки данных (SQL, PostgreSQL, Airflow), собираю данные из разных источников (в т.ч. API).
-#### Делаю понятные отчёты и дашборды в Power BI и Yandex DataLens.
+**Работаю с продуктовой и BI-аналитикой: провожу исследования, считаю метрики и проверяю гипотезы (A/B-тесты, когорты, LTV/ROI). Строю витрины и автоматизирую загрузки данных (SQL, PostgreSQL, Airflow), собираю данные из разных источников (в т.ч. API). Делаю понятные отчёты и дашборды в Power BI и Yandex DataLens.**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mayorkind)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayorkind@gmail.com)
-
 
 ## 📌 Проекты
 
@@ -50,5 +47,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
- 
