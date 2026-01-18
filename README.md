@@ -2,7 +2,9 @@
 ## Data Analyst (BI / Product Analytics)
 
 2+ года коммерческого опыта в продуктовой и BI-аналитике: провожу исследования, считаю метрики и проверяю гипотезы (A/B-тесты, когорты, LTV/ROI).  
+
 Строю витрины и автоматизирую загрузки данных (SQL, PostgreSQL, Airflow), собираю данные из разных источников (в т.ч. API).  
+
 Делаю отчёты и дашборды в Power BI и Yandex DataLens.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mayorkind)
