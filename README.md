@@ -49,7 +49,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-
 ## 💼 Чем могу быть полезен
 - **DWH / витрины:** PostgreSQL, SQL — подготовка витрин под аналитику и отчётность  
 - **ETL / автоматизация:** Airflow — пайплайны, ретраи, мониторинг, контроль качества данных  
@@ -57,5 +56,5 @@
 - **Продуктовая аналитика:** A/B-тесты, когорты, retention/LTV/ROI, ad-hoc исследования  
 - **Интеграции:** сбор данных по API, нормализация и объединение источников  
 
-
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mayorkind)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayorkind@gmail.com)
