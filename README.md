@@ -9,17 +9,17 @@
 ### A/B-тест + кластеризация
 - A/B-тест, сегментация пользователей, рекомендации по росту ключевых метрик  
 - **Ссылка:** https://github.com/Dimayo/data_analyst_portfolio/tree/main/sporting_store  
-- **Стек:** `Python` `pandas` `scipy` `sklearn`
+- **Стек:** `python` `pandas` `matplotlib` `scipy` `seaborn` `numpy` `sklearn` `kmodes` `sqlalchemy`
 
 ### LTV / когорты / ROI
 - Когортный анализ, оценка LTV/ROI по источникам, поиск прибыльных сегментов  
 - **Ссылка:** https://github.com/Dimayo/data_analyst_portfolio/tree/main/fintech_ltv  
-- **Стек:** `Python` `pandas` `NumPy`
+- **Стек:** `python` `pandas` `seaborn` `matplotlib` `numpy` `janitor`
 
 ### Гипотезы по конверсии
 - Проверка гипотез по конверсии разных источников/устройств, интерпретация результатов  
 - **Ссылка:** https://github.com/Dimayo/data_analyst_portfolio/tree/main/car_subscription  
-- **Стек:** `Python` `pandas` `statsmodels`
+- **Стек:** `python` `pandas` `scipy` `seaborn` `statsmodels`
 
 
 ## ⚡ Технологии и инструменты
