@@ -39,7 +39,7 @@
 ### DWH / SQL / ETL
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-111111?style=flat&logo=apacheairflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-E43921?style=flat&logo=apacheairflow&logoColor=white)
 
 ### BI / Визуализация
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
