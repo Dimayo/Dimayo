@@ -25,26 +25,29 @@
 ## ⚡ Технологии и инструменты
 
 ### Python / Аналитика
-![Python](https://img.shields.io/badge/Python-1f1f1f?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1f1f1f?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1f1f1f?style=flat&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-1f1f1f?style=flat&logo=scikitlearn&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-1f1f1f?style=flat)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1f1f1f?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-1f1f1f?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-2F4F4F?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
 ### DWH / SQL / ETL
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat&logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-1f1f1f?style=flat&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 ### BI / Визуализация
-![Power%20BI](https://img.shields.io/badge/Power%20BI-1f1f1f?style=flat&logo=powerbi&logoColor=white)
-![DataLens](https://img.shields.io/badge/Yandex%20DataLens-1f1f1f?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-FFCC00?style=flat)
 
 ### Инфраструктура / Инструменты разработки
-![Docker](https://img.shields.io/badge/Docker-1f1f1f?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1f1f1f?style=flat&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1f1f1f?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 
 ## 💼 Чем могу быть полезен
