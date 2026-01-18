@@ -11,14 +11,10 @@
 - **Ссылка:** https://github.com/Dimayo/data_analyst_portfolio/tree/main/sporting_store  
 - **Стек:** `Python` `pandas` `scipy` `sklearn`
 
----
-
 ### LTV / когорты / ROI — fintech_ltv
 - Когортный анализ, оценка LTV/ROI по источникам, поиск прибыльных сегментов  
 - **Ссылка:** https://github.com/Dimayo/data_analyst_portfolio/tree/main/fintech_ltv  
 - **Стек:** `Python` `pandas` `NumPy`
-
----
 
 ### Гипотезы по конверсии — car_subscription
 - Проверка гипотез по конверсии разных источников/устройств, интерпретация результатов  
