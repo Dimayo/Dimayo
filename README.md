@@ -1,9 +1,11 @@
-<p>
+<a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=21&pause=600&color=00FF41&vCenter=true&width=900&repeat=false&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%94%D0%B8%D0%BC%D0%B0!;Data+Analyst+(BI+%2F+Product+Analytics)"
-    alt="Привет, я Дима! | Data Analyst (BI / Product Analytics)"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=250&multiline=true&width=900&color=00FF41&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%94%D0%B8%D0%BC%D0%B0!;Data+Analyst+(BI+%2F+Product+Analytics)"
+    alt="Typing SVG"
   />
-</p>
+</a>
+
+<br/><br/><br/><br/>
 
 Работаю с продуктовой и BI-аналитикой: провожу исследования, считаю метрики и проверяю гипотезы (A/B-тесты, когорты, LTV/ROI). Строю витрины и автоматизирую загрузки данных (SQL, PostgreSQL, Airflow), собираю данные из разных источников (в т.ч. API). Делаю понятные отчёты и дашборды в **Power BI** и **Yandex DataLens**.
 
