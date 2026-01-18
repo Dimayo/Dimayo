@@ -6,7 +6,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mayorkind)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayorkind@gmail.com)
 
----
 
 ## 📌 Проекты
 
@@ -22,7 +21,6 @@
 - Проверка гипотез по конверсии разных источников/устройств, интерпретация результатов  
 - **Стек:** `Python` `Pandas` `SciPy` `Seaborn` `Statsmodels`
 
----
 
 ## ⚡ Технологии и инструменты
 
