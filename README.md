@@ -12,6 +12,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mayorkind)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayorkind@gmail.com)
 
+
 ## 📌 Проекты
 
 ### [A/B-тест + кластеризация](https://github.com/Dimayo/data_analyst_portfolio/tree/main/sporting_store)
