@@ -19,7 +19,7 @@
 - A/B-тест, сегментация пользователей, рекомендации по росту ключевых метрик  
 - **Стек:** `Python` `Pandas` `SciPy` `Sklearn` `Seaborn` `SQLAlchemy`
 
-### [LTV / когорты / ROI](https://github.com/Dimayo/data_analyst_portfoliofoloio/tree/main/fintech_ltv)
+### [LTV / когорты / ROI](https://github.com/Dimayo/data_analyst_portfolio/tree/main/fintech_ltv) 
 - Когортный анализ, оценка LTV/ROI по источникам, поиск наиболее прибыльных сегментов  
 - **Стек:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Janitor`
 
