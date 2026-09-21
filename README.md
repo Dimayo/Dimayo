@@ -14,6 +14,9 @@
 Инфра: Docker, Redis, Celery, Prometheus, Grafana
 
 **Проекты**
-- [A/B-тест + кластеризация](https://github.com/Dimayo/data_analyst_portfolio/tree/main/sporting_store) — рост выручки и среднего чека, сегменты аудитории
-- [LTV / когорты / ROI](https://github.com/Dimayo/data_analyst_portfolio/tree/main/fintech_ltv) — прибыльные сегменты и каналы по ROI
-- [Гипотезы по конверсии](https://github.com/Dimayo/data_analyst_portfolio/tree/main/car_subscription) — эффективные источники и устройства
+
+| Проект | Результат |
+|---|---|
+| [A/B-тест + кластеризация](https://github.com/Dimayo/data_analyst_portfolio/tree/main/sporting_store) | рост выручки и среднего чека, сегменты аудитории |
+| [LTV / когорты / ROI](https://github.com/Dimayo/data_analyst_portfolio/tree/main/fintech_ltv) | прибыльные сегменты и каналы по ROI |
+| [Гипотезы по конверсии](https://github.com/Dimayo/data_analyst_portfolio/tree/main/car_subscription) | эффективные источники и устройства |
