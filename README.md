@@ -8,13 +8,13 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayorkind@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/Dimayo/data_analyst_portfolio)
 
-### Стек
+## Стек
 
 Аналитика: Python, Pandas, SciPy, Scikit-Learn, CatBoost, LightAutoML  
 Данные / BI: PostgreSQL, BigQuery, Airflow, dbt, FastAPI, Power BI, DataLens  
 Инфра: Docker, Prometheus, Grafana
 
-### Учебные кейсы
+## Учебные кейсы
 
 | Проект | Результат |
 |---|---|
