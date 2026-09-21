@@ -2,7 +2,7 @@
 
 **Data Analyst (BI / Product Analytics)** · 3 года коммерческого опыта
 
-Метрики, A/B-тесты, когорты, LTV/ROI. Строю витрины и ETL (PostgreSQL, Airflow), API для данных и ML-скоринга, дашборды в Power BI и Yandex DataLens.
+Метрики, A/B-тесты, когорты, LTV/ROI. Строю витрины и ETL (PostgreSQL, BigQuery, Airflow), API для данных и ML-скоринга, дашборды в Power BI и Yandex DataLens.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mayorkind)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayorkind@gmail.com)
@@ -10,7 +10,7 @@
 
 **Стек**  
 Аналитика: Python, Pandas, SciPy, Scikit-Learn, CatBoost  
-Данные / BI: PostgreSQL, Airflow, dbt, FastAPI, Power BI, DataLens  
+Данные / BI: PostgreSQL, BigQuery, Airflow, dbt, FastAPI, Power BI, DataLens  
 Инфра: Docker, Redis, Celery, Prometheus, Grafana
 
 **Проекты**
