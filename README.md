@@ -6,12 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayorkind@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/Dimayo/data_analyst_portfolio)
 
-## Сейчас в Leadcash
-
-- Считаю метрики, проверяю гипотезы и A/B, разбираю когорты, LTV и ROI — до вывода, на котором можно решить
-- Собираю витрины и ETL на PostgreSQL, BigQuery, Airflow и dbt
-- Делаю API для данных и ML-скоринга (FastAPI, CatBoost, LightAutoML) и дашборды в Power BI и DataLens
-
 ## Стек
 
 | | |
