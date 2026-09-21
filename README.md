@@ -14,6 +14,8 @@
 - **Инфраструктура:** Docker, Prometheus, Grafana
 
 ### Учебные кейсы
-- [A/B-тест + кластеризация](https://github.com/Dimayo/data_analyst_portfolio/tree/main/sporting_store): персональная скидка +19% ARPU, четыре сегмента для следующих рассылок
-- [LTV / когорты / ROI](https://github.com/Dimayo/data_analyst_portfolio/tree/main/fintech_ltv): прибыльные когорты и каналы, на которые стоит направлять бюджет
-- [Гипотезы по конверсии](https://github.com/Dimayo/data_analyst_portfolio/tree/main/car_subscription): источники и устройства, которые конвертят лучше
+| Проект | Результат |
+|---|---|
+| [A/B-тест + кластеризация](https://github.com/Dimayo/data_analyst_portfolio/tree/main/sporting_store) | Персональная скидка +19% ARPU, четыре сегмента для следующих рассылок |
+| [LTV / когорты / ROI](https://github.com/Dimayo/data_analyst_portfolio/tree/main/fintech_ltv) | Прибыльные когорты и каналы, на которые стоит направлять бюджет |
+| [Гипотезы по конверсии](https://github.com/Dimayo/data_analyst_portfolio/tree/main/car_subscription) | Источники и устройства, которые конвертят лучше |
