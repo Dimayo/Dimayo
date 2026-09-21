@@ -2,7 +2,7 @@
 
 **Data Analyst (BI / Product Analytics)** · 3 года коммерческого опыта
 
-Метрики, A/B-тесты, когорты, LTV/ROI. Строю витрины и ETL (PostgreSQL, BigQuery, Airflow), API для данных и ML-скоринга, дашборды в Power BI и Yandex DataLens.
+Помогаю принимать решения на данных: метрики, гипотезы, A/B-тесты, когорты, LTV/ROI. Собираю витрины и ETL (PostgreSQL, BigQuery, Airflow), делаю API для данных и ML-скоринга, строю дашборды в Power BI и Yandex DataLens.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mayorkind)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayorkind@gmail.com)
@@ -17,6 +17,6 @@
 
 | Проект | Результат |
 |---|---|
-| [A/B-тест + кластеризация](https://github.com/Dimayo/data_analyst_portfolio/tree/main/sporting_store) | рост выручки и среднего чека, сегменты аудитории |
-| [LTV / когорты / ROI](https://github.com/Dimayo/data_analyst_portfolio/tree/main/fintech_ltv) | прибыльные сегменты и каналы по ROI |
-| [Гипотезы по конверсии](https://github.com/Dimayo/data_analyst_portfolio/tree/main/car_subscription) | эффективные источники и устройства |
+| [A/B-тест + кластеризация](https://github.com/Dimayo/data_analyst_portfolio/tree/main/sporting_store) | Кампания дала +19% ARPU, выделены сегменты для следующих рассылок |
+| [LTV / когорты / ROI](https://github.com/Dimayo/data_analyst_portfolio/tree/main/fintech_ltv) | Нашёл прибыльные когорты и каналы, куда стоит вкладывать бюджет |
+| [Гипотезы по конверсии](https://github.com/Dimayo/data_analyst_portfolio/tree/main/car_subscription) | Показал, какие источники и устройства реально конвертят лучше |
