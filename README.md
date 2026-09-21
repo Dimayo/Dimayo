@@ -11,7 +11,7 @@
 **Стек**  
 Аналитика: Python, Pandas, SciPy, Scikit-Learn, CatBoost  
 Данные / BI: PostgreSQL, BigQuery, Airflow, dbt, FastAPI, Power BI, DataLens  
-Инфра: Docker, Redis, Celery, Prometheus, Grafana
+Инфра: Docker, Prometheus, Grafana
 
 **Проекты**
 
