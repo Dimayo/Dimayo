@@ -13,7 +13,6 @@
 Данные / BI: PostgreSQL, BigQuery, Airflow, dbt, FastAPI, Power BI, DataLens<br>
 Инфраструктура: Docker, Prometheus, Grafana
 
-
 **Учебные кейсы**
 | Проект | Результат |
 |---|---|
