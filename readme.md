@@ -1,6 +1,6 @@
 ### Data Analyst (BI / Product Analytics) · 3 года коммерческого опыта
 
-Помогаю принимать решения на данных: метрики, гипотезы, A/B-тесты, когорты, LTV/ROI. Собираю витрины и ETL (PostgreSQL, BigQuery, Airflow), делаю API для данных и ML-скоринга, строю дашборды в Power BI и Yandex DataLens.
+3 года в аналитике: DWH/ETL (Airflow, PostgreSQL), BI-дашборды (DataLens / Power BI), ad-hoc исследования. Делаю витрины и отчётность под маркетинг/продукт, автоматизирую сбор данных по API и сервисы вокруг витрин (ранжирование, проверки, сегментация).
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mayorkind)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayorkind@gmail.com)
@@ -11,7 +11,17 @@
 - **Данные / BI:** PostgreSQL, BigQuery, Airflow, dbt, FastAPI, Power BI, DataLens
 - **Инфраструктура:** Docker, Prometheus, Grafana
 
-### Кейсы
+### Коммерческий опыт
+В Leadcash (CPA / product analytics):
+- DWH на PostgreSQL и ETL в Airflow (пайплайны, мониторинг, обработка ошибок) + витрины в dbt
+- **20+** дашбордов и **15+** ad-hoc в Yandex DataLens для финансов, маркетинга и продукта
+- API вокруг витрин: рейтинг офферов по EPC, проверка email по внутреннему кэшу, фильтрация по конверсиям, сегментация пользователей
+- Сократил время подготовки/обновления отчётности на **40%**
+- Снизил долю обращений к внешней валидации email на **35%** за счёт предварительной проверки по внутренней базе
+
+Код продакшена в приватных репозиториях; ниже — публичные учебные разборы.
+
+### Публичные кейсы
 | Проект | Результат |
 |---|---|
 | [Продажи маркетплейса](https://github.com/dimayo/portfolio/tree/main/marketplace_sales) | 3 дашборда: продажи **5,62 млрд** ₽; план выполнен; электроника лидирует по выручке |
