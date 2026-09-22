@@ -15,5 +15,5 @@
 | Проект | Результат |
 |---|---|
 | [A/B-тест + кластеризация](https://github.com/dimayo/portfolio/tree/main/sporting_store) | Скидка в email: **+19%** к средней выручке на клиента; 4 сегмента для следующих рассылок |
-| [LTV / когорты / ROI](https://github.com/dimayo/portfolio/tree/main/fintech_ltv) | Куда класть бюджет: каналы с лучшим LTV — органика, прямой и контекст |
+| [LTV / когорты / ROI](https://github.com/dimayo/portfolio/tree/main/fintech_ltv) | Лучшие каналы по LTV — органика, прямой и контекст |
 | [Гипотезы по конверсии](https://github.com/dimayo/portfolio/tree/main/car_subscription) | Органика конвертит почти в 2 раза лучше платного (4.4% vs 2.3%); desktop выше mobile на ~19% |
