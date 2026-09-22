@@ -1,5 +1,3 @@
-## Дмитрий Майоркин
-
 ### Data Analyst (BI / Product Analytics) · 3 года коммерческого опыта
 
 Помогаю принимать решения на данных: метрики, гипотезы, A/B-тесты, когорты, LTV/ROI. Собираю витрины и ETL (PostgreSQL, BigQuery, Airflow), делаю API для данных и ML-скоринга, строю дашборды в Power BI и Yandex DataLens.
