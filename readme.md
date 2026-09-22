@@ -15,5 +15,5 @@
 | Проект | Результат |
 |---|---|
 | [A/B-тест + кластеризация](https://github.com/dimayo/portfolio/tree/main/sporting_store) | Скидка в email: **+19% ARPU**; 4 сегмента для следующих рассылок |
-| [LTV / когорты / ROI](https://github.com/dimayo/portfolio/tree/main/fintech_ltv) | Лучшие каналы по LTV — органика, прямой и контекст |
+| [LTV / когорты / ROI](https://github.com/dimayo/portfolio/tree/main/fintech_ltv) | ~**5%** клиентов → **80%** выручки |
 | [Гипотезы по конверсии](https://github.com/dimayo/portfolio/tree/main/car_subscription) | Органика CR **4.4%** vs **2.3%** у платного; desktop выше mobile на ~**19%** |
