@@ -12,8 +12,17 @@
 - **Инфраструктура:** Docker, Prometheus, Grafana
 
 ### Коммерческий опыт
-- **CPA / product analytics:** DWH (PostgreSQL) + ETL (Airflow/dbt), **20+** дашбордов DataLens, API вокруг витрин (EPC/LightAutoML, рейтинг пользователей/CatBoost, email-кэш) → отчётность быстрее на **40%**, меньше внешних проверок email на **35%**
-- **Ритейл:** Power BI по продажам, сегментация базы, кампании и ad-hoc
+
+**CPA / product analytics**
+- DWH на PostgreSQL, витрины в dbt, ETL на Airflow
+- **20+** дашбордов DataLens для finance / marketing / product
+- API вокруг витрин: ранжирование офферов (EPC / LightAutoML), рейтинг пользователей (CatBoost), email-кэш
+- Отчётность быстрее на **40%**, внешних проверок email меньше на **35%**
+
+**Ритейл**
+- Ежедневная отчётность по продажам в Power BI
+- Сегментация базы, кампании (звонки / SMS) и ad-hoc для руководства
+- Автоматизация отчётов на Python (−**30%** времени), A/B с ростом ARPPU и CR
 
 Продакшен в приватных репо; ниже — публичные кейсы.
 
