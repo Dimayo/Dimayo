@@ -8,16 +8,25 @@
 
 ### Стек
 - **Аналитика:** Python, Pandas, SciPy, Scikit-Learn, CatBoost, LightAutoML
-- **Данные / BI:** PostgreSQL, BigQuery, Airflow, dbt, FastAPI, Power BI, DataLens
+- **Данные / BI:** PostgreSQL, BigQuery, Greenplum, ClickHouse, Airflow, dbt, FastAPI, Power BI, DataLens
 - **Инфраструктура:** Docker, Prometheus, Grafana
 
 ### Коммерческий опыт
-В Leadcash (CPA / product analytics):
+
+**Сейчас · CPA / product analytics**
 - DWH на PostgreSQL и ETL в Airflow (пайплайны, мониторинг, обработка ошибок) + витрины в dbt
 - **20+** дашбордов и **15+** ad-hoc в Yandex DataLens для финансов, маркетинга и продукта
 - API вокруг витрин: рейтинг офферов по EPC, проверка email по внутреннему кэшу, фильтрация по конверсиям, сегментация пользователей
 - Сократил время подготовки/обновления отчётности на **40%**
 - Снизил долю обращений к внешней валидации email на **35%** за счёт предварительной проверки по внутренней базе
+
+**Ранее · ритейл (дом. текстиль)**
+- Ежедневные отчёты по продажам в Power BI и ad-hoc для руководства
+- Сегментация клиентской базы, подготовка и разбор рекламных кампаний (звонки / SMS)
+- Актуальность клиентских данных; связка с сайтом и 1С
+
+**Онбординг · product analytics**
+- Практика SQL (JOIN, CTE, window) на PostgreSQL / Greenplum / ClickHouse, отчёты в Power BI; выход на проект не состоялся по орг. причинам
 
 Код продакшена в приватных репозиториях; ниже — публичные учебные разборы.
 
