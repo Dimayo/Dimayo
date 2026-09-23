@@ -29,7 +29,7 @@
 ### Публичные кейсы
 | Проект | Результат |
 |---|---|
-| [Аналитика маркетплейса](https://github.com/dimayo/portfolio/tree/main/marketplace_sales) | Дашборд DataLens: продажи **5,62 млрд** ₽; план выполнен; электроника лидирует по выручке |
+| [Аналитика маркетплейса](https://github.com/dimayo/portfolio/tree/main/marketplace_sales) | KPI продаж и выполнения плана, разрез по категориям |
 | [A/B-тест + кластеризация](https://github.com/dimayo/portfolio/tree/main/sporting_store) | Скидка в email: **+19% ARPU**; 4 сегмента для следующих рассылок |
 | [LTV / когорты / ROI](https://github.com/dimayo/portfolio/tree/main/fintech_ltv) | Концентрация выручки: ≈ **5%** клиентов → **80%** выручки |
 | [Гипотезы по конверсии](https://github.com/dimayo/portfolio/tree/main/car_subscription) | Органика CR **4.4%** vs **2.3%** у платного; desktop выше mobile на ≈ **19%** |
